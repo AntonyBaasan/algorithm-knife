@@ -1,0 +1,14 @@
+{
+  "name": "algorithm-knife",
+  "version": "0.0.1",
+  "description": "swiss knife for the computer data science algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "Antony Baasandorj",
+  "license": "ISC"
+}
